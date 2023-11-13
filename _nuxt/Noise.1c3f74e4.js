@@ -1,0 +1,1 @@
+import{l as s}from"./loadBackgroudImages.6dc4ef71.js";import{g as o,o as e,c as a}from"./entry.af56873b.js";const t={class:"bg-img noise-bg","data-background":"/assets/imgs/patterns/noise1.png"},m={__name:"Noise",setup(n){return o(()=>{s()}),(r,c)=>(e(),a("div",t))}};export{m as _};
