@@ -1,0 +1,1 @@
+import{g as a,B as e,o as _,c as n}from"./entry.af56873b.js";const s={id:"home_wave"},m={__name:"Waves",setup(i){a(()=>{o()});async function o(){const t=(await e(()=>import("./waves.d0444a6d.js"),[],import.meta.url)).default;t()}return(t,r)=>(_(),n("div",s))}};export{m as _};
