@@ -1,0 +1,1 @@
+import{_ as t,a as _}from"./ProgressScroll.6cb6fca7.js";import{_ as a,o as r,c,b as e,G as l,F as m}from"./entry.8264f6b4.js";const f={};function u(o,d){const n=t,s=_;return r(),c(m,null,[e(n),e(s),l(o.$slots,"default")],64)}const g=a(f,[["render",u]]);export{g as default};
